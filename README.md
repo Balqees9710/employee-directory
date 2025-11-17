@@ -20,7 +20,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 13 |  |  |  |
 | 14 |  |  |  |
 | 15 |  |  |  |
-| 16 |  |  |  |
+| 16 | Balqees | AI | Digital and AI innovation Specialist  |
 | 17 |  |  |  |
 | 18 |  |  |  |
 | 19 |  |  |  |
